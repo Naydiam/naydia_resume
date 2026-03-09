@@ -7,10 +7,10 @@
 - skill: Framerworks
   description: React
 
-  - skill: Developer Tools
+- skill: Developer Tools
   description: Git, VS Code, Visual Studio
 
-  - skill: Libraries
+- skill: Libraries
   description: Numpy, Matplotlib
 
 # Digital content development and creation
