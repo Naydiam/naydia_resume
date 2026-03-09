@@ -16,7 +16,7 @@
     implementing command piping, output redirection, and the cd built-in</li><li>Integrated advanced shell features including a history log with re-execution capability, command path searching,
     and signal blocking for SIGINT/SIGT</li></ul>
 
-  - project: SIMULATED STORE DATABASE
+- project: SIMULATED STORE DATABASE
   role: Primary Developer
   duration: Aug. 2025 &mdash; Dec. 2025
   # url: "#"
@@ -25,7 +25,7 @@
     etc.)</li><li>Used PHP and HTML to create an online database that allowed the user to insert, remove, and update item
     information</li></ul>
 
-  - project: IMPLEMENTATION OF GAME DESIGN TECHNIQUES IN ONLINE LEARNING PLATFORMS
+- project: IMPLEMENTATION OF GAME DESIGN TECHNIQUES IN ONLINE LEARNING PLATFORMS
   role: Primary Researcher
   duration: Jan. 2025 &mdash; May. 2025
   # url: "#"
