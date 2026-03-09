@@ -1,16 +1,32 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# AI WEB_DEVELOPMENY-ACM RESEARCH
+- project: HOW AI-DRIVEN WEB DEVELOPMENT SUPPORTS ACCESSIBILITY IN WEB PLATFORMS
+  role: Primary Researcher
+  duration: Jan. 2026 &mdash; Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: <ul class="resume-item-list"><li>Compare websites made by developers to websites built largely by AI</li><li>Test how well they adhere to standards set by the WCAG</li></ul>
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: MavShell
+  role: Primary Developer
+  duration: Oct. 2025 &mdash; Nov. 2025
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: <ul class="resume-item-list"><li>Developed a custom Unix-like shell (msh) in C, utilizing fork(), exec(), and wait() for process management while
+    implementing command piping, output redirection, and the cd built-in</li><li>Integrated advanced shell features including a history log with re-execution capability, command path searching,
+    and signal blocking for SIGINT/SIGT</li></ul>
+
+  - project: SIMULATED STORE DATABASE
+  role: Primary Developer
+  duration: Aug. 2025 &mdash; Dec. 2025
+  # url: "#"
+  description: <ul class="resume-item-list"><li>Designed a relational diagram to simulate real-world store interactions between employees, items, vendors, orders,
+    and customers</li><li>Built an SQL database based on the relational diagram that stored specific data (i.e employee name and id, vendor,
+    etc.)</li><li>Used PHP and HTML to create an online database that allowed the user to insert, remove, and update item
+    information</li></ul>
+
+  - project: IMPLEMENTATION OF GAME DESIGN TECHNIQUES IN ONLINE LEARNING PLATFORMS
+  role: Primary Researcher
+  duration: Jan. 2025 &mdash; May. 2025
+  # url: "#"
+  description: <ul class="resume-item-list"><li>Created a model program to teach novice programmers about C programming using visual aids and point systems</li><li>The program taught core coding fundamentals (variables, loops, and linked lists) through various cooking scenarios</li><li>Tested the program with freshman computer science students with minimal coding experience</li></ul>
