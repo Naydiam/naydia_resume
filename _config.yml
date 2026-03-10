@@ -48,8 +48,8 @@ resume_social_links:
   resume_github_url:            "https://github.com/Naydiam/naydia_resume"
   resume_linkedin_url:          "https://www.linkedin.com/in/naydia-moore-794494308/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  #resume_website_url:           "http://joelglovier.com"
-  #resume_medium_url:            "https://medium.com/@jglovier"
+  #resume_website_url:           ""
+  #resume_medium_url:            ""
 resume_print_social_links:      true
 
 # Design settings
